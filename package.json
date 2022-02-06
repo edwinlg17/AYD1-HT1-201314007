@@ -1,0 +1,26 @@
+{
+  "name": "ayd1-ht1-201314007",
+  "version": "1.0.0",
+  "description": "AYD1-HT1-201314007",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src",
+    "dev": "nodemon src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwinlg17/AYD1-HT1-201314007.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwinlg17/AYD1-HT1-201314007/issues"
+  },
+  "homepage": "https://github.com/edwinlg17/AYD1-HT1-201314007#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}
